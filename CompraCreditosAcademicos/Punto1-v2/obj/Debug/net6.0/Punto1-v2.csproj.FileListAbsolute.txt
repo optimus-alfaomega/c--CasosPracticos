@@ -1,0 +1,15 @@
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\bin\Debug\net6.0\Punto1-v2.exe
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\bin\Debug\net6.0\Punto1-v2.deps.json
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\bin\Debug\net6.0\Punto1-v2.runtimeconfig.json
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\bin\Debug\net6.0\Punto1-v2.dll
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\bin\Debug\net6.0\Punto1-v2.pdb
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.csproj.AssemblyReference.cache
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.AssemblyInfoInputs.cache
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.AssemblyInfo.cs
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.csproj.CoreCompileInputs.cache
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.dll
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\refint\Punto1-v2.dll
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.pdb
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\Punto1-v2.genruntimeconfig.cache
+C:\Users\00793\source\repos\Punto1-v2\Punto1-v2\obj\Debug\net6.0\ref\Punto1-v2.dll
